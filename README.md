@@ -2,7 +2,9 @@
 
 ## Compare
 
-![[Android.png]] ![[iPhone.png]]
+ 
+![Android](https://github.com/grpchatdstryr/Nova-Launcher/blob/main/images/Android.png?raw=true) ![iPhone](https://raw.githubusercontent.com/grpchatdstryr/Nova-Launcher/main/images/iPhone.png)
+
 
 
 ## What is this?
