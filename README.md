@@ -2,7 +2,8 @@
 
 ## Compare
 
-![[Android Nova.jpg| 200]] ![[iPhone Wallpaper.jpeg | 198]]
+![[Android.png]] ![[iPhone.png]]
+
 
 ## What is this?
 
@@ -12,8 +13,8 @@ Do you like iOS but without the iPhone? Well, you can use an app called Nova Lau
 
 Thankfully, it is a simple process to make your phone look like an iPhone as long as you can download the app, download the Nova file, and have a desire to customize. 
 
-1) First you will want to download the Nova Launcher app which can be found [here](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_US)
-2) Download the Nova file by clicking on the *Android-to-iPhone.novabackup* in GitHub
+1) First you will want to download the Nova Launcher app which can be found [here](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
+2) Download the Nova file by clicking on the *Android-to-iPhone.novabackup* in GitHub (also found [here](https://github.com/grpchatdstryr/Nova-Launcher/blob/main/Android-to-iPhone.novabackup))
 3) Open Nova Launcher, go through the basic set up process
 4) In Nova Settings, click *Backup & restore*, and click *Restore backup*
 5) Find the Nova file you downloaded from GitHub and choose that as a backup
